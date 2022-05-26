@@ -1,2 +1,2 @@
-# moqu-uni-app
-墨趣书法uni-app开发
+# moqu-thinkPHP
+墨趣书法thinkPHP框架接口开发
