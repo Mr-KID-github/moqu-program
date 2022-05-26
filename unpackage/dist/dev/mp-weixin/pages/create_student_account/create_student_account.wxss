@@ -1,0 +1,96 @@
+
+.or{
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		margin-top: 50rpx;
+}
+.or text{
+		font-style: normal;
+		font-weight: 800;
+		font-size: 20rpx;
+		line-height: 30rpx;
+		/* identical to box height */
+		
+		text-align: center;
+		
+		color: #000000;
+}
+.line{
+		width: 100rpx;
+		height: 0rpx;
+		margin-left: 30rpx;
+		margin-right: 30rpx;
+		border: 1rpx solid #D6DAE8;
+}
+.placeholder_input{
+
+		font-style: normal;
+		font-weight: 700;
+		font-size: 28rpx;
+		line-height: 36rpx;
+		
+		color: #979797;
+}
+.input_something{
+		width: 568rpx;
+		height: 96rpx;
+		display: flex;
+		align-items: center;
+		background: #EEEEEE;
+		border-radius: 20rpx;
+		margin-top: 50rpx;
+}
+.content{
+		width: 100vw;
+		display: flex;
+		flex-direction: column;
+		justify-content: center;
+		align-items: center;
+}
+.sing_up_button{
+		margin-top: 50rpx;
+		width: 560rpx;
+		height: 108rpx;
+		
+
+		border-radius: 40rpx;
+		font-style: normal;
+		font-weight: 700;
+		font-size: 32rpx;
+		line-height: 42rpx;
+		/* identical to box height */
+		
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		
+		color: #FFFFFF;
+}
+.sing_up_button image{
+		position: fixed;
+		left: 160rpx;
+		width: 72rpx;
+		height: 72rpx;
+}
+.input_logo{
+		width: 48rpx;
+		height: 48rpx;
+		margin-left: 30rpx;
+		margin-right: 30rpx;
+}
+.title{
+	width: 480rpx;
+	height: 248rpx;
+	margin-left: 32rpx;
+	margin-top: 32rpx;
+
+	font-style: normal;
+	font-weight: 700;
+	font-size: 96rpx;
+	line-height: 124rpx;
+
+	color: #000000;
+}
+
